@@ -6,6 +6,10 @@ import sys, logging, argparse
 
 
 def main():
+
+  parser = argparse.ArgumentParser()
+  parser.add_argument("sing",action='store_true')
+  args = parser.parse_args()
   
   song = """The sun will always shine.
 The birds will always sing.
@@ -13,8 +17,8 @@ As long as there is thirst,
 There's always the real thing.
 """
 
-
-  print(song)
+  if args.sing:
+    print(song)
 
 if __name__ == '__main__':
   main()
