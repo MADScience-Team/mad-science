@@ -1,5 +1,6 @@
 ##########
-# Just writing a bit of Python code to make sure I have everything running to my satisfaction on this new macbook. Github working, etc.
+# Just writing a bit of Python code to make sure I have
+# my satisfaction on this new macbook. Github working, etc.
 ##########
 
 song = """The sun will always shine.
