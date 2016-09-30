@@ -10,7 +10,7 @@ github renders markdown for you, so does my text editor. neato!
 
 foos  | bars | bazs
 ----- | ---- | ---------
-chris | john | ray, mike
+c | j | r, m
 none  |      |
 
 here's a [link to bing][25caa4ad]
